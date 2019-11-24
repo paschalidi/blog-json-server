@@ -28,21 +28,21 @@
           "order": 3,
           "type": "radio",
           "question": "How helpful was X?",
-          "answers": {
-            "0": {
+          "answers": [
+            {
               "position": 0,
               "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
             },
-            "1": {
+            {
               "position": 1,
               "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
             },
-            "2": {
+            {
               "position": 2,
               "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             }
-          }
-        }
+
+]        }
       ]
     },
     {
@@ -54,20 +54,20 @@
           "order": 0,
           "type": "radio",
           "question": "How helpful was X?",
-          "answers": {
-            "0": {
+          "answers": [
+            {
               "position": 0,
               "answer": "one"
             },
-            "1": {
+            {
               "position": 1,
               "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s2"
             },
-            "2": {
+            {
               "position": 2,
               "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s3"
             }
-          }
+          ],
         },
         {
           "id": 31,
@@ -92,20 +92,20 @@
           "order": 2,
           "type": "radio",
           "question": "How did this person handled X?",
-          "answers": {
-            "0": {
+          "answers": [
+            {
               "position": 0,
               "answer": "Could have been better"
             },
-            "1": {
+            {
               "position": 1,
               "answer": "Okay"
             },
-            "2": {
+            {
               "position": 2,
               "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             }
-          }
+          ]
         },
         {
           "id": 21,
@@ -144,20 +144,20 @@
           "order": 3,
           "type": "radio",
           "question": "What sound do you love?",
-          "answers": {
-            "0": {
+          "answers": [
+            {
               "position": 0,
               "answer": "The sound of no work"
             },
-            "1": {
+            {
               "position": 1,
               "answer": "The sound of little work"
             },
-            "2": {
+            {
               "position": 2,
               "answer": "The sound of just the right work"
             }
-          }
+          ]
         },
         {
           "id": 13,
