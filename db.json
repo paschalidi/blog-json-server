@@ -196,14 +196,6 @@
           "answer": 5
         },
         {
-          "id": 3,
-          "type": "radio",
-          "question": "How did this person handled X?",
-          "answer": 3,
-          "text": "You Were Great I and others can count on your courage to help the team do what is right."
-
-        },
-        {
           "id": 4,
           "type": "text",
           "question": "How well does this do X?",
@@ -244,19 +236,6 @@
           "answer": 3,
           "text": "You Were Great I and others can count on your courage to help the team do what is right."
 
-        },
-        {
-          "id": 4,
-          "type": "text",
-          "question": "How well does this do X?",
-          "text": "\"Lorem Ipsum is simply dummy text of the printing and typesetting industry.\""
-
-        },
-        {
-          "id": 5,
-          "type": "scale",
-          "question": "How helpful was X?",
-          "answer": 2
         }
       ]
     }
@@ -328,14 +307,6 @@
           "type": "scale",
           "question": "How well does this do X?",
           "answer": 7
-        },
-         {
-          "id": 3,
-          "type": "radio",
-          "question": "How did this person handled X?",
-          "answer": 3,
-          "text": "You Were Great I and others can count on your courage to help the team do what is right."
-
         },
         {
           "id": 4,
