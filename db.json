@@ -41,8 +41,8 @@
               "position": 2,
               "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             }
-
-]        }
+          ]
+        }
       ]
     },
     {
@@ -194,6 +194,21 @@
           "type": "scale",
           "question": "How well does this do X?",
           "answer": 5
+        },
+        {
+          "id": 3,
+          "type": "radio",
+          "question": "How did this person handled X?",
+          "answer": 3,
+          "text": "You Were Great I and others can count on your courage to help the team do what is right."
+
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "question": "How well does this do X?",
+          "text": "\"Lorem Ipsum is simply dummy text of the printing and typesetting industry.\""
+
         }
       ]
     },
@@ -221,15 +236,9 @@
           "type": "scale",
           "question": "How well does this do X?",
           "answer": 7
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "username": "Nathaniel Nathaniel-Johnoson",
-      "feedback": [
+        },
         {
-          "id": 0,
+          "id": 3,
           "type": "radio",
           "question": "How did this person handled X?",
           "answer": 3,
@@ -237,21 +246,21 @@
 
         },
         {
-          "id": 1,
+          "id": 4,
           "type": "text",
           "question": "How well does this do X?",
           "text": "\"Lorem Ipsum is simply dummy text of the printing and typesetting industry.\""
 
         },
         {
-          "id": 2,
+          "id": 5,
           "type": "scale",
           "question": "How helpful was X?",
           "answer": 2
         }
       ]
     }
-  ] ,
+  ],
   "to-me-feedback": [
     {
       "id": 1,
@@ -277,6 +286,21 @@
           "type": "scale",
           "question": "How well does this do X?",
           "answer": 5
+        },
+         {
+          "id": 5,
+          "type": "radio",
+          "question": "How did this person handled X?",
+          "answer": 3,
+          "text": "You Were Great I and others can count on your courage to help the team do what is right."
+
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "question": "How well does this do X?",
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+
         }
       ]
     },
@@ -304,15 +328,9 @@
           "type": "scale",
           "question": "How well does this do X?",
           "answer": 7
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "username": "Nathaniel Moon",
-      "feedback": [
-        {
-          "id": 0,
+        },
+         {
+          "id": 3,
           "type": "radio",
           "question": "How did this person handled X?",
           "answer": 3,
@@ -320,21 +338,14 @@
 
         },
         {
-          "id": 1,
+          "id": 4,
           "type": "text",
           "question": "How well does this do X?",
           "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 
-        },
-        {
-          "id": 2,
-          "type": "scale",
-          "question": "How helpful was X?",
-          "answer": 2
         }
       ]
     }
-
   ],
   "profile": {
     "name": "typicode"
