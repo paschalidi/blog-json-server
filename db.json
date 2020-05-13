@@ -1,203 +1,206 @@
 {
-  "23155647": {
-    "by": "minimaxir",
-    "descendants": 1166,
-    "id": 23155647,
-    "score": 2628,
-    "time": 1589299786,
-    "title": "Twitter Will Allow Employees to Work at Home Forever",
-    "type": "story",
-    "url": "https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever"
-  },
-  "23160101": {
-    "by": "JetSpiegel",
-    "descendants": 3,
-    "id": 23160101,
-    "kids": [23160102, 23160194],
-    "score": 4,
-    "time": 1589318824,
-    "title": "Show HN: Push-to-Talk for Pulseaudio",
-    "type": "story",
-    "url": "https://gitlab.com/somini/inpulse-to-talk"
-  },
-  "23162651": {
-    "by": "secondbreakfast",
-    "descendants": 330,
-    "id": 23162651,
-    "score": 706,
-    "time": 1589335543,
-    "title": "Patio11's Law: The software economy is bigger than you think",
-    "type": "story",
-    "url": "https://secondbreakfast.co/patio11-s-law"
-  },
-  "23162820": {
-    "by": "martythemaniak",
-    "descendants": 93,
-    "id": 23162820,
-    "score": 212,
-    "time": 1589337189,
-    "title": "ISS Docking Simulation",
-    "type": "story",
-    "url": "https://iss-sim.spacex.com/"
-  },
-  "23163060": {
-    "by": "Reedx",
-    "descendants": 120,
-    "id": 23163060,
-    "score": 220,
-    "time": 1589339534,
-    "title": "JPMorgan Extends Banking Services to Bitcoin Exchanges",
-    "type": "story",
-    "url": "https://www.wsj.com/articles/jpmorgan-extends-banking-services-to-bitcoin-exchanges-11589281201"
-  },
-  "23163574": {
-    "by": "tzmudzin",
-    "descendants": 22,
-    "id": 23163574,
-    "score": 172,
-    "time": 1589345410,
-    "title": "The Eclipse Foundation Is Moving to Europe",
-    "type": "story",
-    "url": "https://eclipse-foundation.blog/2020/05/12/moving-to-europe/"
-  },
-  "23164614": {
-    "by": "galfarragem",
-    "descendants": 177,
-    "id": 23164614,
-    "score": 248,
-    "time": 1589356930,
-    "title": "Janet: a lightweight, expressive and modern Lisp",
-    "type": "story",
-    "url": "https://janet-lang.org"
-  },
-  "23164887": {
-    "by": "dredmorbius",
-    "descendants": 181,
-    "id": 23164887,
-    "score": 161,
-    "time": 1589359635,
-    "title": "The modern HTTPS world has no place for old web servers",
-    "type": "story",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/HTTPSNoOldServers"
-  },
-  "23165157": {
-    "by": "benjaminjosephw",
-    "descendants": 18,
-    "id": 23165157,
-    "score": 179,
-    "time": 1589362971,
-    "title": "Linux containers in a few lines of code",
-    "type": "story",
-    "url": "https://zserge.com/posts/containers/"
-  },
-  "23165282": {
-    "by": "luu",
-    "descendants": 30,
-    "id": 23165282,
-    "score": 115,
-    "time": 1589364380,
-    "title": "Fonts extracted from BIOSes and VGA ROMs",
-    "type": "story",
-    "url": "https://github.com/spacerace/romfont"
-  },
-  "23165333": {
-    "by": "inersha",
-    "descendants": 49,
-    "id": 23165333,
-    "score": 506,
-    "time": 1589364810,
-    "title": "Show HN: SHA-256 Animation",
-    "type": "story",
-    "url": "https://github.com/in3rsha/sha256-animation"
-  },
-  "23165579": {
-    "by": "pseudolus",
-    "descendants": 30,
-    "id": 23165579,
-    "score": 80,
-    "time": 1589367156,
-    "title": "Work-from-home boom leads to more surveillance",
-    "type": "story",
-    "url": "https://www.npr.org/2020/05/13/854014403/your-boss-is-watching-you-work-from-home-boom-leads-to-more-surveillance"
-  },
-  "23166142": {
-    "by": "danbenoni",
-    "descendants": 5,
-    "id": 23166142,
-    "score": 14,
-    "time": 1589372756,
-    "title": "Cognitive biases and principles that affect UX",
-    "type": "story",
-    "url": "https://psychology.design/"
-  },
-  "23166177": {
-    "by": "bkohlmann",
-    "descendants": 26,
-    "id": 23166177,
-    "score": 39,
-    "time": 1589373041,
-    "title": "If landlords get wiped out, Wall Street wins, not renters",
-    "type": "story",
-    "url": "https://www.bloomberg.com/news/articles/2020-05-12/if-landlords-get-wiped-out-wall-street-wins-not-renters"
-  },
-  "23166442": {
-    "by": "21stio",
-    "descendants": 16,
-    "id": 23166442,
-    "score": 44,
-    "time": 1589374841,
-    "title": "Show HN: Visualize any topic on Hacker News",
-    "type": "story",
-    "url": "https://showcase.metamate.io/hackernews-trends"
-  },
-  "23166554": {
-    "by": "nifoc",
-    "descendants": 6,
-    "id": 23166554,
-    "score": 89,
-    "time": 1589375649,
-    "title": "OTP 23 Release",
-    "type": "story",
-    "url": "http://www.erlang.org/news/140"
-  },
-  "23167096": {
-    "by": "open-source-ux",
-    "descendants": 0,
-    "id": 23167096,
-    "score": 4,
-    "time": 1589379436,
-    "title": "Moths have 'secret role' as crucial pollinators",
-    "type": "story",
-    "url": "https://www.bbc.co.uk/news/science-environment-52630991"
-  },
-  "23167303": {
-    "by": "nonoesp",
-    "descendants": 0,
-    "id": 23167303,
-    "score": 4,
-    "time": 1589380768,
-    "title": "Graph2Plan: Learning Floorplan Generation from Layout Graphs",
-    "type": "story",
-    "url": "https://arxiv.org/abs/2004.13204"
-  },
-  "23167324": {
-    "by": "bbirnbaum",
-    "descendants": 0,
-    "id": 23167324,
-    "score": 4,
-    "time": 1589380942,
-    "title": "Don’t require a user to be interested twice: Lessons on reducing signup friction",
-    "type": "story",
-    "url": "https://bbirnbaum.com/two-lessons-on-reducing-sign-up-friction/"
-  },
-  "23167420": {
-    "by": "rglover",
-    "descendants": 0,
-    "id": 23167420,
-    "score": 6,
-    "time": 1589381476,
-    "title": "Tips for Rapidly Iterating on Your Product When Finding Product-Market Fit",
-    "type": "story",
-    "url": "https://oncommand.io/blog/4-tips-for-rapidly-iterating-on-your-product-when-finding-product-market-fit"
+"blogs":
+  {
+    "23155647": {
+      "by": "minimaxir",
+      "descendants": 1166,
+      "id": 23155647,
+      "score": 2628,
+      "time": 1589299786,
+      "title": "Twitter Will Allow Employees to Work at Home Forever",
+      "type": "story",
+      "url": "https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever"
+    },
+    "23160101": {
+      "by": "JetSpiegel",
+      "descendants": 3,
+      "id": 23160101,
+      "kids": [23160102, 23160194],
+      "score": 4,
+      "time": 1589318824,
+      "title": "Show HN: Push-to-Talk for Pulseaudio",
+      "type": "story",
+      "url": "https://gitlab.com/somini/inpulse-to-talk"
+    },
+    "23162651": {
+      "by": "secondbreakfast",
+      "descendants": 330,
+      "id": 23162651,
+      "score": 706,
+      "time": 1589335543,
+      "title": "Patio11's Law: The software economy is bigger than you think",
+      "type": "story",
+      "url": "https://secondbreakfast.co/patio11-s-law"
+    },
+    "23162820": {
+      "by": "martythemaniak",
+      "descendants": 93,
+      "id": 23162820,
+      "score": 212,
+      "time": 1589337189,
+      "title": "ISS Docking Simulation",
+      "type": "story",
+      "url": "https://iss-sim.spacex.com/"
+    },
+    "23163060": {
+      "by": "Reedx",
+      "descendants": 120,
+      "id": 23163060,
+      "score": 220,
+      "time": 1589339534,
+      "title": "JPMorgan Extends Banking Services to Bitcoin Exchanges",
+      "type": "story",
+      "url": "https://www.wsj.com/articles/jpmorgan-extends-banking-services-to-bitcoin-exchanges-11589281201"
+    },
+    "23163574": {
+      "by": "tzmudzin",
+      "descendants": 22,
+      "id": 23163574,
+      "score": 172,
+      "time": 1589345410,
+      "title": "The Eclipse Foundation Is Moving to Europe",
+      "type": "story",
+      "url": "https://eclipse-foundation.blog/2020/05/12/moving-to-europe/"
+    },
+    "23164614": {
+      "by": "galfarragem",
+      "descendants": 177,
+      "id": 23164614,
+      "score": 248,
+      "time": 1589356930,
+      "title": "Janet: a lightweight, expressive and modern Lisp",
+      "type": "story",
+      "url": "https://janet-lang.org"
+    },
+    "23164887": {
+      "by": "dredmorbius",
+      "descendants": 181,
+      "id": 23164887,
+      "score": 161,
+      "time": 1589359635,
+      "title": "The modern HTTPS world has no place for old web servers",
+      "type": "story",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/web/HTTPSNoOldServers"
+    },
+    "23165157": {
+      "by": "benjaminjosephw",
+      "descendants": 18,
+      "id": 23165157,
+      "score": 179,
+      "time": 1589362971,
+      "title": "Linux containers in a few lines of code",
+      "type": "story",
+      "url": "https://zserge.com/posts/containers/"
+    },
+    "23165282": {
+      "by": "luu",
+      "descendants": 30,
+      "id": 23165282,
+      "score": 115,
+      "time": 1589364380,
+      "title": "Fonts extracted from BIOSes and VGA ROMs",
+      "type": "story",
+      "url": "https://github.com/spacerace/romfont"
+    },
+    "23165333": {
+      "by": "inersha",
+      "descendants": 49,
+      "id": 23165333,
+      "score": 506,
+      "time": 1589364810,
+      "title": "Show HN: SHA-256 Animation",
+      "type": "story",
+      "url": "https://github.com/in3rsha/sha256-animation"
+    },
+    "23165579": {
+      "by": "pseudolus",
+      "descendants": 30,
+      "id": 23165579,
+      "score": 80,
+      "time": 1589367156,
+      "title": "Work-from-home boom leads to more surveillance",
+      "type": "story",
+      "url": "https://www.npr.org/2020/05/13/854014403/your-boss-is-watching-you-work-from-home-boom-leads-to-more-surveillance"
+    },
+    "23166142": {
+      "by": "danbenoni",
+      "descendants": 5,
+      "id": 23166142,
+      "score": 14,
+      "time": 1589372756,
+      "title": "Cognitive biases and principles that affect UX",
+      "type": "story",
+      "url": "https://psychology.design/"
+    },
+    "23166177": {
+      "by": "bkohlmann",
+      "descendants": 26,
+      "id": 23166177,
+      "score": 39,
+      "time": 1589373041,
+      "title": "If landlords get wiped out, Wall Street wins, not renters",
+      "type": "story",
+      "url": "https://www.bloomberg.com/news/articles/2020-05-12/if-landlords-get-wiped-out-wall-street-wins-not-renters"
+    },
+    "23166442": {
+      "by": "21stio",
+      "descendants": 16,
+      "id": 23166442,
+      "score": 44,
+      "time": 1589374841,
+      "title": "Show HN: Visualize any topic on Hacker News",
+      "type": "story",
+      "url": "https://showcase.metamate.io/hackernews-trends"
+    },
+    "23166554": {
+      "by": "nifoc",
+      "descendants": 6,
+      "id": 23166554,
+      "score": 89,
+      "time": 1589375649,
+      "title": "OTP 23 Release",
+      "type": "story",
+      "url": "http://www.erlang.org/news/140"
+    },
+    "23167096": {
+      "by": "open-source-ux",
+      "descendants": 0,
+      "id": 23167096,
+      "score": 4,
+      "time": 1589379436,
+      "title": "Moths have 'secret role' as crucial pollinators",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/science-environment-52630991"
+    },
+    "23167303": {
+      "by": "nonoesp",
+      "descendants": 0,
+      "id": 23167303,
+      "score": 4,
+      "time": 1589380768,
+      "title": "Graph2Plan: Learning Floorplan Generation from Layout Graphs",
+      "type": "story",
+      "url": "https://arxiv.org/abs/2004.13204"
+    },
+    "23167324": {
+      "by": "bbirnbaum",
+      "descendants": 0,
+      "id": 23167324,
+      "score": 4,
+      "time": 1589380942,
+      "title": "Don’t require a user to be interested twice: Lessons on reducing signup friction",
+      "type": "story",
+      "url": "https://bbirnbaum.com/two-lessons-on-reducing-sign-up-friction/"
+    },
+    "23167420": {
+      "by": "rglover",
+      "descendants": 0,
+      "id": 23167420,
+      "score": 6,
+      "time": 1589381476,
+      "title": "Tips for Rapidly Iterating on Your Product When Finding Product-Market Fit",
+      "type": "story",
+      "url": "https://oncommand.io/blog/4-tips-for-rapidly-iterating-on-your-product-when-finding-product-market-fit"
+    }
   }
 }
